@@ -1,5 +1,7 @@
 # Bank Account Simulation System
 
+**Developed by Shivamani**
+
 A Java application that simulates a simple banking system using Object-Oriented Programming (OOP) concepts and a Swing-based Graphical User Interface (GUI).
 
 ## Features
