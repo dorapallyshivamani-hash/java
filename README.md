@@ -1,7 +1,5 @@
 # Bank Account Simulation System
 
-**Developed by Shivamani**
-
 A Java application that simulates a simple banking system using Object-Oriented Programming (OOP) concepts and a Swing-based Graphical User Interface (GUI).
 
 ## Features
@@ -32,3 +30,6 @@ A Java application that simulates a simple banking system using Object-Oriented 
 2. Enter your **Account Number**, **Name**, and your starting **Initial Balance**.
 3. Click **Submit** to validate, then **Create Account**.
 4. Use the **Operations** buttons to `Deposit`, `Withdraw`, `Check Balance`, or `Add Interest`.
+
+---
+*Developed by Shivamani*
